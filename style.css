@@ -1,0 +1,148 @@
+body {
+  background: red;
+  margin: 0;
+}
+
+div.splash {
+  background: url(images/banner-image-11.jpg);
+  background-size: cover;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+div.callouts{
+  text-align: center;
+  width:100%;
+  background: url(images/cb-bg-1.jpg);
+  padding: 15px;
+}
+
+footer{
+  background: black;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 190px;
+}
+
+nav.top_nav {
+height: 40px;
+}
+
+.center.nav_icon{
+  background: black;
+  display: inline-block;
+  width: 68%;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-left: 1px solid #BDBDBD;
+  border-right: 1px solid #BDBDBD;
+  margin-top: 5px;
+}
+
+.right.nav_icon {
+  background: black;
+  width: 10%;
+  display: inline-block;
+}
+
+.left.nav_icon {
+  background: black;
+  width: 10%;
+  display: inline-block;
+}
+
+.nav_icon{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.white {
+color: white;
+font-family: sans-serif;
+}
+
+.pretty{
+  width: 100%;
+  font-size: 26pt;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pretty.line1{
+  font-family: cursive;
+  line-height: 0.9;
+  padding-top: 30px;
+  font-size: 32pt;
+}
+
+.pretty.line2{
+  font-family: sans-serif;
+  letter-spacing: 4;
+  text-transform: uppercase;
+}
+
+.pretty.line3{
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-bottom: 15px;
+  letter-spacing: 2.5;
+}
+
+.so_cool{
+  color: white;
+  font-family: sans-serif;
+  letter-spacing: 2.5;
+  text-transform: uppercase;
+}
+
+.big_black{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  width:248px;
+  font-size: normal;
+  padding: 16px;
+  color: white;
+  background: black;
+  font-size: 16px;
+  border: none;
+}
+
+img.callout{
+  margin: 15px;
+}
+
+.rounded{
+  border-radius: 7px;
+}
+
+.spacer{
+  clear: both;
+}
+
+.social_icon{
+  float: right;
+}
+
+.compliance{
+  float: left;
+  margin-top: 15px;
+}
+
+p.copyright {
+text-align: right;
+margin: 0;
+}
+
+li.white {
+list-style-type: none;
+font-family: sans-serif;
+display: inline-block;
+font-size: 9pt;
+float: right;
+margin: 7px;
+margin-bottom: 20px;
+}
